@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Cardápio de Hamburgueria
 =======
  # Cardápio de Hamburgueria
@@ -37,3 +38,6 @@ Abaixo está uma captura de tela da aplicação para que você possa ver como o 
 =======
 - **JavaScript**: Funcionalidades interativas e lógica de aplicação.
 >>>>>>> 962ebc2ed8419144ad4b9351c69dfda37db86be7
+=======
+
+>>>>>>> 8591a9f6195f118c52e36dddc110b2098b45726a
